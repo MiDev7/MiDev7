@@ -4,9 +4,9 @@ I am a apprentice software engineer. My background is in Graphic Design and clas
 
 Find me on:
 
-<a href="https://www.instagram.com/mika_i7/" target="blank"><img align="left" src="https://img.icons8.com/color/452/instagram-new--v1.png" height="50"></a> 
-<a href="https://www.facebook.com/mikaia.raza/" target="blank"><img align="left" src="https://img.icons8.com/fluency/344/facebook-new.png" height="50"></a>
-<a href="https://www.linkedin.com/in/mikaia-razafintsalama-fanomezantsoa-676b1b1a1/" target="blank"><img align="left" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="50"></a>
+<a href="https://www.instagram.com/mika_i7/" target="blank" ><img align="left" src="https://img.icons8.com/color/452/instagram-new--v1.png" height="50"/></a> 
+<a href="https://www.facebook.com/mikaia.raza/" target="blank" ><img align="left" src="https://img.icons8.com/fluency/344/facebook-new.png" height="50"/></a>
+<a href="https://www.linkedin.com/in/mikaia-razafintsalama-fanomezantsoa-676b1b1a1/" target="blank" ><img align="left" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="50"/></a>
 <!--
 **MiDev7/MiDev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

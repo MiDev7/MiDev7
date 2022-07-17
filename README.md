@@ -2,7 +2,7 @@
 
 I am a apprentice software engineer. My background is in Graphic Design and classical, jazz musician (piano). I am more than thrilled to start this new journey.
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Instagram](https://img.icons8.com/color/452/instagram-new--v1.png)
     
 
 <!--

@@ -1,8 +1,6 @@
 ### Hi there 👋, My name is Mikaia
 
 I am a apprentice software engineer. My background is in Graphic Design and classical, jazz musician (piano). I am more than thrilled to start this new journey.
-
-![Instagram](https://img.icons8.com/color/452/instagram-new--v1.png)
     
 Find me on:
 <a href="https://www.instagram.com/mika_i7/ " target="blank"><img align="center" src=" https://img.icons8.com/color/452/instagram-new--v1.png" height="100"></a> 

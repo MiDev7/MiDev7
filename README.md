@@ -2,9 +2,9 @@
 
 I am a apprentice software engineer. My background is in Graphic Design and classical, jazz musician (piano). I am more than thrilled to start this new journey.
 
-'''html
+![Tux, the Linux mascot](/assets/images/tux.png)
+    
 
-'''
 <!--
 **MiDev7/MiDev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

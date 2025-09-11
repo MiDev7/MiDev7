@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mikaia
 
-I am a apprentice software engineer. My background is in Graphic Design and classical, jazz musician (piano). I am more than thrilled to start this new journey.
+I am a software engineer with an interest in website development and AI-solutions development. My background is in Graphic Design and classical, jazz musician (piano). I am more than thrilled to start this new journey.
 
 
 
@@ -16,6 +16,9 @@ Find me on:
 <a href="https://www.linkedin.com/in/mikaia-razafintsalama-fanomezantsoa-676b1b1a1/" target="_blank" ><img align="left" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="50" /></a>
 
 
+- 🌱 I’m currently learning Rust 
+- 👯 I’m looking to collaborate on the development of a new AI model that will help in the medical field.
+- 😄 Pronouns: He/Him/His
 <!--
 **MiDev7/MiDev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

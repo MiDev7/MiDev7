@@ -2,12 +2,9 @@
 
 I am a software engineer with an interest in website development and AI-solutions development. My background is in Graphic Design and classical, jazz musician (piano). I am more than thrilled to start this new journey.
 
-
-
-
-![MiDev7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiDev7&theme=ayu-mirage&hide_border=true)
+![MiDev7's Stats](https://github-readme-stats.vercel.app/api?username=MiDev7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MiDev7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiDev7&theme=vue-dark&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiDev7)](https://github.com/MiDev7/github-readme-stats)
-
 
 Find me on:
 

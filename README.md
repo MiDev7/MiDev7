@@ -5,7 +5,7 @@ I am a software engineer with an interest in website development and AI-solution
 
 
 
-![Mikaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikaia&show_icons=true&theme=dark)
+![MiDev7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiDev7&theme=ayu-mirage&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiDev7)](https://github.com/MiDev7/github-readme-stats)
 
 
